@@ -62,7 +62,6 @@ for (j = 0; j <= n; j++)
 # OUTPUT
 
 ![Screenshot 2024-09-26 091756](https://github.com/user-attachments/assets/dcfcb8ee-6324-4a18-9aea-ffe132879328)
-#result
-the program executed successfully
 
-### The program to implement a symbol table is executed and the output is verified.
+#Result
+the program executed successfully
