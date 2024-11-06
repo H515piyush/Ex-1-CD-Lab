@@ -61,7 +61,8 @@ for (j = 0; j <= n; j++)
 
 # OUTPUT
 
-![Screenshot 2024-09-26 091756](https://github.com/user-attachments/assets/dcfcb8ee-6324-4a18-9aea-ffe132879328)
+![377364075-ff30d3a5-0f0d-4113-8dfe-da96945e314d](https://github.com/user-attachments/assets/6a707be0-52f7-4828-b145-7dc39de03a9e)
 
-#Result
+
+# Result
 the program executed successfully
